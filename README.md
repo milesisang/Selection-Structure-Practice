@@ -1,2 +1,3 @@
 #CS2 practice exercises
-##Practice #1 Odd or even interpreter
+##Practices
+1. odd or even interpreter
